@@ -33,9 +33,9 @@ div.container {
     box-sizing: border-box;
     margin: 0;
     padding: 0px;
-    position: absolute;
-    top: 0;
-    right: 0;
+    position: relative;
+    top: 0px;
+    left: 640px;
 }
 
 #inner_container2    {
@@ -80,13 +80,13 @@ div.container {
 /*********tablet devices************/
 @media (min-width: 768px) and (max-width:991xx)    {
     #containerI {
-        width: 50%;
+        width: 45%;
         margin:0;
         padding:0;
         float: left;
     }
     #containerII {
-        width: 50%;
+        width: 45%;
         height:100px;
         margin:0;
         padding:0;
@@ -102,17 +102,19 @@ div.container {
 /******mobile devices**********/
 @media (min-width: 50px) and (max-width:767px)   {
     #containerI {
-        width: 10%;
+        width: 30%;
         margin:0;
         padding:0;
     }
     #containerII {
-        width: 100px;
+        width: 30%;
         height: 100px;
         margin:0;
         padding:0;
     }
     #containerIII   {
+        width: 30%;
+        height: 100px;
         margin:0;
         padding:0;
     }
