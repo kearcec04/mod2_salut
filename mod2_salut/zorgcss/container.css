@@ -1,13 +1,13 @@
 /****container styling****/
 
 .container {
-    margin: 0;
+    margin: auto;
     padding: 0;
     width: 360px;
     height: 500px;
     box-sizing: border-box;
     border: 2px solid rgb(0, 0, 0);
-    ;
+    display:inline-block;
 }
 
 #inner_container1 {
