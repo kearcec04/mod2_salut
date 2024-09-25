@@ -33,9 +33,9 @@ div.container {
     box-sizing: border-box;
     margin: 0;
     padding: 0px;
-    position: relative;
-    left: 645px;
-    bottom: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 #inner_container2    {
