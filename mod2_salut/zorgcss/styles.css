@@ -1,0 +1,31 @@
+body    {
+    margin-top: 50px;
+    padding: 0;
+    background-color: grey;
+}
+
+h1  {
+    text-align:center;
+}
+p   {
+    margin: 0;
+    padding: 0;
+
+}
+
+.section {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+
+}
+
+.containerI {
+    margin: 0;
+    padding: 0;
+}
